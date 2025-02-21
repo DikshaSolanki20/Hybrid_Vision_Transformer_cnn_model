@@ -15,8 +15,6 @@ Welcome to the **ViT + CNN Fusion** project! This repository contains a Jupyter 
 📦 ViT-CNN-Fusion
  ┣ 📜 vit+conv_final.ipynb  # Jupyter Notebook with implementation
  ┣ 📜 README.md             # Project documentation
- ┣ 📂 data/                 # Dataset (if applicable)
- ┣ 📂 models/               # Saved models (if applicable)
 ```
 
 ## 🚀 Getting Started
